@@ -1,5 +1,7 @@
+# This program is pretty complicated, especially due to the overcomplicated error handling, but it works.
+
 def dates():
-        
+ 
     print("For this project, I will need two dates. Input the dates accordingly.")
 
     day_a = "bar"
@@ -51,7 +53,8 @@ def dates():
     int(year_b)
 
     # Now we compare the two, oh boy
-
+    # since there's a lot of outcomes possible, there's also many lines of code.
+    
     if year_a == year_b:
 
         if month_a == month_b:

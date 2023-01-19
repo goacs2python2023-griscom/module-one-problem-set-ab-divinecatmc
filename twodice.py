@@ -1,5 +1,7 @@
 import random
 
+# Two random 6-sided dice, either you win or you lose.
+
 def die():
 
     diceone = random.randint(1,6)

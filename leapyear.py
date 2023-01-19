@@ -1,3 +1,6 @@
+# Another straightforward one
+# basically it just checks if it's an exception to the rules, then outputs the case.
+
 def years():
 
     year = int(input("Insert year: "))
