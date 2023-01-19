@@ -19,4 +19,4 @@ def die():
 
         return("lose")
 
-die()
+print(die())
